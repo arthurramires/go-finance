@@ -1,6 +1,10 @@
 # Go Finance
 > Projeto desenvolvido como desafio proposto no bootcamp Go Stack 11.0 pela Rocketseat.
 
+[![Yarn Version][ypm-image]][ypm-url]
+[![React Version][react-image]][react-url]
+
+
 Projeto que tem como objetivo ser uma plataforma para se organizar um fluxo de caixa, seja de carteiras pessoais ou empresas.
 
 ![](./Assets/list.png)
