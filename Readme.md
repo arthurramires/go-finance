@@ -1,13 +1,16 @@
 # Go Finance
 > Projeto desenvolvido como desafio proposto no bootcamp Go Stack 11.0 pela Rocketseat.
 
-[![Yarn Version][ypm-image]][ypm-url]
-[![React Version][react-image]][react-url]
-
-
 Projeto que tem como objetivo ser uma plataforma para se organizar um fluxo de caixa, seja de carteiras pessoais ou empresas.
 
-![](./Assets/list.png)
+![list](https://user-images.githubusercontent.com/52502727/80528981-c4d13000-8964-11ea-8992-227c31b4184b.PNG)
+![import](https://user-images.githubusercontent.com/52502727/80528985-c6025d00-8964-11ea-9c68-3ff2c597aff2.PNG)
+
+## Tecnologias Utilizadas
+
+* Node.js
+* ReactJS
+* Typescript
 
 ## Instalação
 
